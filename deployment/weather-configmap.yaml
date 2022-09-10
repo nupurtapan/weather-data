@@ -10,4 +10,4 @@ data:
 
       data:
         url: "https://api.data.gov.sg/v1/environment/rainfall"
-        location: "sunglade"
+        location: "Marina Gardens Drive"
